@@ -1,4 +1,6 @@
+<?php
 
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -159,24 +161,14 @@
         <h1 class="logo cursive">
             Welcome to chiab_gigi
         </h1>
+    </div>
 
-        <div class="content">
-            <h4 class="motto">My website!</h4>
-            <div class="subscribe">
-                <h5 class="info-text">
-                    Where to start? Click the <a href="blank.php" target="_blank">Getting Started</a>
-                </h5>
-            </div>
-        </div>
+
+
+
     </div>
-    <div class="footer">
-        <div class="container">
-            Proudly powered by <br>
-            <a href="https://chiab-gigi.it"><img src="logo.png" alt="chiab_gigi.it" height="40px"></a>
-        </div>
-    </div>
-</div>
-<script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" type="text/javascript"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js" type="text/javascript"></script>
 </body>
 </html>
+
